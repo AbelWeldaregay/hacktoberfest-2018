@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Abel Weldaregay](https://github.com/AbelWeldaregay)
+- Place: Norfolk, VA, USA
+- Bio: I am a computer science student in VA, USA
+- GitHub: [AbelWeldaregay](https://github.com/AbelWeldaregay)
